@@ -1,0 +1,37 @@
+.container{
+    margin-top: 50px;
+}
+.heading1{
+    margin-top: 250px;
+    text-align: center;
+}
+.card1{
+    border: 5px solid black;
+    border-radius: 20px;
+    width: 480px;
+    height: 590px;
+    
+    
+}
+.image img{
+    width: 350px;
+    margin-top: 40px;
+    margin-left: 50px;
+    height: 400px;
+}
+.heading2{
+    margin-top: 50px;
+    text-align: center;
+}
+.para1{
+    text-align: center;
+    margin-top: 30px;
+}
+.container3{
+    display: flex;
+    margin-left: 190px;
+    gap: 65px;
+    margin-top: 90px;
+    background-color: white;
+
+}
